@@ -1,0 +1,22 @@
+Otomobilde Klima Sistemi ve Temel Aksamlarý
+araba klimasý
+Otomobillerdeki klima ve kapalý ortamlarýn iklimlendirilmesini saðlayan sistemler; iþ yerlerinde, evlerde ve seyahat esnasýnda otomobil içlerinde sýklýkla kullanýlmakta olan, kiþinin kendisini daha iyi hissetmesini saðlayan ayrýca konfor ve serinleme imkaný sunan gereksinimlerdir
+Klima sistemleri, günümüzde otomobiller açýsýndan oldukça önemli bir hale gelmiþ, manuel veya otomatik olarak çalýþan sistemlerdir. Ayrýca bu sistemler, otomobil alýrken oldukça dikkat edilen unsurlardandýr.
+Araç içinde seyir esnasýnda; yoldaki rahatsýz eden gürültüler, açýk camdan giren sýcak hava veya olumsuz kokular sebebiyle camlar kapatýlmaktadýr. Aracýn dýþ etkenlerden korunmasý amaçlý kapatýlan camlar, araçlarýn iç mekanýnýn havasýnýn olumsuzlaþmasýna neden olmaktadýr. Ýþte bu noktada, klima sistemleri kurtarýcý olmaktadýr. Klima sistemlerinin çalýþmaya baþlamasýyla birlikte araç içindeki nem miktarý ve hava sýcaklýðý dengelenmiþ olunur.
+Klimalar, özellikle yaz aylarýnda daha çok kullanýlan sistemlerdir. Yaz aylarýnda sýcak havanýn bunaltýcýlýðýndan kurtulmak için kullanýlan klimalar; soðuk havalarda da araç camlarýnýn buðulanmasýný önleyici etki saðlamaktadýr. Klima sistemleri, yýlýn belli dönemlerinde daha sýk kullanýlsa da tüm yýl boyunca bir þekilde kullanýlmaktadýr. Bazý araçlarda klima sisteminin çalýþmasý; araç içindeki havanýnýn döndürülmesi ve dýþarýya hava verilmemesi gibi fonksiyonlarýn seçilebilirliði ile desteklenmektedir.
+Klimanýn Yapýsý
+Klimanýn Temel Aksamlarý Nelerdir?
+1) Kondansatör
+Kondansatör, otomobillerin ön kýsmýna monte edilmiþ olan bir nevi ýsý deðiþtiricisidir. Otomobilin seyri esnasýnda, maruz kalýnan havayý kullanarak veya dururken fandan faydalanarak soðutma iþlemini gerçekleþtirir.  Bunu o kýsýmda bulunan gazý, sývýya dönüþtürerek gerçekleþtirir.
+2) Nem Alma Deposu
+Klima sisteminin parçalarýndan olan kondansatör ve detandör parçalarýnýn arasýna konulmaktadýr. Nem alma deposunun görevi, sistem devresinde oluþmakta olan nemi emmek ve bu aþamada oluþan pislikleri filtre etmektir. Otomobillerde kullanýlan cinslerine göre, akýþkan depolama özelliði de gösterebilmektedir. Fakat farklý klima sistemlerinde, bahsedilen bu depolama görevini avaporatör ismi verilen parça yapmaktadýr.
+3) Detandör
+Detandör, klima sistemleri içinde oldukça önemli bir görevi olan evaporatör içinde yer alan soðutucu akýþkan debisini ayarlamaktadýr. Bu unsur, evaporatör çýkýþýnda yer almakta olan soðutucu akýþkanýn basýncýna ve sýcaklýðýna uygun olarak hareket etmektedir.
+4) Evaporatör
+Evaporatör, otomobil torpidosunun alt kýsmýnda, ýsýtma radyatörünün yanýnda yer alan bu parçanýn görevi, kendisini dolaþmakta olan havayý soðutmak ve kurutmaktýr. Bu yüzden klimalý olan araçlar, durduklarý zaman alt kýsýmlarýndan su damlalarýnýn görülmesi normal karþýlanmalýdýr.
+5) Kompresör
+Kompresör kýsmý, evaporatörden gelen buharý emer ve bu buharý kondansatör yönünde sýkýþtýrarak basýnç ve sýcaklýk artýþýna neden olur.
+6) Polen Filtresi
+Polen filtresi, otomobilin içine her türlü duman, toz, polen, uçuþan parçalar, kül ve pisliklerin girmesini engelleyerek, tutulmasýný saðlamaktadýr. Çevreyi kirletme özelliði olan veya havanýn kalitesini düþüren her türlü parçacýðý, polen filtresi tutar ve araç içine girmesini engeller. Böylece araç kabininin temiz kalmasýný ve deforme olmasýný engellemektedir. Bunlara ek olarak, aracýn ön cam kýsmýnda; kir, bakteri ve pislik oluþumunu da engellemektedir.
+7) Soðutucu Akýþkan
+Klima sisteminin çalýþmasý esnasýnda, soðutucu akýþkan tüm bölümlerle temasý olan ve soðutma saðlayan akýþkandýr. R-12 gazý, diðer bir ismiyle Freon, özellikle ozon tabakasýnýn zarar görmesinde oldukça etkilidir. Bu yüzden yeni geliþtirilen ve modernize edilmiþ olan klima sistemlerinde, R-12 gazýnýn yerine R-134 gazý kullanýlmaktadýr.

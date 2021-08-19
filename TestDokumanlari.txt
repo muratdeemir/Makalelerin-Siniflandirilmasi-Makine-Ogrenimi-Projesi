@@ -1,0 +1,9 @@
+UC Berkeley ve Ecole des Ponts Paris Tech‘deki araþtýrmacýlar son zamanlarda sanat koleksiyonlarýnda tekrar eden görsel kalýplarý keþfetmek için bir derin öðrenme yaklaþýmý geliþtirdiler.
+
+Her sanat eseri benzersiz görünse de, sanatçýlar sýklýkla tekrarlayan görsel öðeler veya motifler kullanýr. (Melekler, yel deðirmenleri vb…) Örneðin, eleþtirmenler; Flaman Ressam Jan Brueghel’in bazý resimlerinin; babasý Pieter Breughel’in imitasyonlarý veya uyarlamalarý olduðuna inanýyor.
+
+Araþtýrmalarýnda, sanat tarihçileri sýklýkla farklý sanat eserleri arasýndaki görsel baðlantýlarý ortaya çýkarmaya çalýþýrlar. Çünkü bu onlarýn kanýtlarýna ve yazarlýklarýna ýþýk tutabilir. Ancak, büyük sanat koleksiyonlarýnda benzer görsel kalýplarý ortaya çýkarmak, hem insanlar hem de makineler için çok zor olabilir.
+Araþtýrmacý Mathieu Aubry: “Bu projeye, bir sanat tarihçisi Elizabeth Honig ile yaptýðý sunumun ardýndan baþladýk. Ýlk hedefimiz, temsil tarzýndaki küçük deðiþikliklere ve farklýlýklara raðmen, farklý eserler arasýnda doðrudan kopyalanan dijital görüntü koleksiyonlarýnýn ayrýntýlarýný otomatik olarak tanýmlayarak, sanat tarihçilerinin iþini daha kolay ve daha ölçeklenebilir hale getirmekti.”
+
+Son çalýþmalarýnda, Aubry ve arkadaþlarý büyük sanat koleksiyonlarýnda tekrarlayan, görsel kalýplarý otomatik olarak keþfedebilecek bir yaklaþým önerdiler. Temel olarak, farklý sanat eserlerindeki yinelenen görsel öðeler arasýndaki yazýþmalarý bulmak için denetimsiz bir makine öðrenme modeli geliþtirdiler.
+Aubry: “Yaklaþýmýmýzýn ana yeniliði, insan gözetimi olmadan, görevimize özel olarak uyarlanmýþ bir derin resim tanýmlayýcýyý öðrenmektir: Farklý temsil stilleri arasýnda tam kopyalarý eþleþtiriyor.”
